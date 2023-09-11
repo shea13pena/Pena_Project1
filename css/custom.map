@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "custom.css",
+	"sources": [
+		"../sass/custom.scss"
+	],
+	"sourcesContent": [
+		"body{\n    width: 100%;\n    top: 100%;\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,CAAA;EACA,KAAK,EAAE,IAAI;EACX,GAAG,EAAE,IAAI;CACZ"
+}
