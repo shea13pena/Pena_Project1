@@ -1,56 +1,11 @@
 /* line 1, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+li {
+  list-style: none;
+}
+
+/* line 5, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
 body {
-  width: 100%;
-  top: 100%;
+  background-image: url(../img/background-image.png);
 }
 
-body {
-  background-image: url(img/background-image.png);
-  background-size: cover; 
-  background-repeat: repeat;
-  
-
-}
-
-.sidebar {
-  width: 250px; 
-  background-color: #333;
-  color: #fff;
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100%;
-  overflow-y: auto; 
-}
-
-.content {
-  margin-left: 250px; 
-  padding: 20px;
-}
-
-.nav-link {
-
-color: white;
-
-}
-
-.home-work-collage img {
-
-width: 50%;
-
-
-}
-
-.work1 {
-
-
-
-width: 10%;
-
-}
-
-.work2 {
-
-width: 10%;
-
-}
+/*# sourceMappingURL=custom.css.map */
