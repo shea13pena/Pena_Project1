@@ -8,4 +8,145 @@ body {
   background-image: url(../img/background-image.png);
 }
 
+/* line 10, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+.dark-footer {
+  background-color: #333;
+  color: gray;
+  padding: 20px;
+  text-align: center;
+}
+
+/* line 18, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+  margin: 10px;
+}
+
+/* line 25, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+.footer-links a:hover {
+  color: #fff;
+}
+
+/* line 31, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+p {
+  color: black;
+  text-align: center;
+}
+
+/* line 37, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+li p {
+  text-decoration: none;
+}
+
+/* line 43, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+h1 {
+  font-family: 'Dela Gothic One', cursive;
+}
+
+/* line 51, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+h2 {
+  font-size: 18pt;
+}
+
+/* line 57, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+p {
+  font-family: 'Dela Gothic One', cursive;
+}
+
+/* line 65, ../../../../../../../../../../../../../Users/a13/Desktop/Sites/Pena_Project1/sass/custom.scss */
+.pfp {
+  width: 40%;
+  margin-left: 350px;
+}
+
 /*# sourceMappingURL=custom.css.map */
+
+.mainabout {
+
+  margin-top: 200px;
+  font-size: 2rem;
+
+
+
+
+}
+
+#title1 {
+
+  font-size: 150px;
+
+}
+
+.footer-links {
+
+  color: gray;
+
+
+}
+
+.footer-links :hover {
+
+  color: white;
+
+
+}
+
+a :hover {
+
+  color: hotpink;
+
+
+}
+
+footer {
+
+  color: gray;
+
+
+}
+
+footer :hover {
+
+  color: #fff
+}
+
+.work1description {
+
+
+  margin-top: 20px;
+  padding-top: 20px;
+  background-color: #333;
+  color: #fff;
+  margin: 20px;
+
+
+
+}
+
+h1 .title2 {
+
+  font-size: 30pt;
+
+
+}
+
+.zinemainpic {
+
+  width: 100%;
+
+}
+
+h3 {
+
+  font-family: 'Bebas Neue', sans-serif;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+
+
+
+
+}
